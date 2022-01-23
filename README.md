@@ -1,6 +1,6 @@
 # Deep-Learning
 # Driver Drowsiness Detection Using (CNN):
-<img src="https://github.com/talbaiz/Deep-Learning/blob/main/Images/eye.png" width="700" height="400" />
+<img src="https://github.com/talbaiz/Deep-Learning/blob/main/Images/eye.png" width="800" height="500" />
 
 ### Introduction:
 Driver drowsiness detection is a car safety technology which helps prevent accidents caused by the driver getting drowsy.
@@ -14,11 +14,9 @@ here Some examples of images of the dataset:
 <img src="https://github.com/talbaiz/Deep-Learning/blob/main/Images/images%20dataset.png" width="800" height="500" />
 
 # Tools:
-
 ## Technologies:
 - Python
 - Jupyter Notebook
-
 ## Libraries:
 - Pandas
 - Numpy
