@@ -1,6 +1,6 @@
 # Deep-Learning
 # Driver Drowsiness Detection Using (CNN):
-<img src="https://github.com/talbaiz/Deep-Learning/blob/main/Images/eye.png" width="900" height="400" />
+<img src="https://github.com/talbaiz/Deep-Learning/blob/main/Images/eye.png" width="700" height="400" />
 
 ## Introduction:
 Driver drowsiness detection is a car safety technology which helps prevent accidents caused by the driver getting drowsy.
@@ -9,22 +9,23 @@ The project uses a covlutional neural network (CNN) model to predict whether a p
 ## Data Description:
 The data for this project is from Kaggle.com. The obtained dataset consists 2900 images of people, this data set has four categories(Open, closed, yawn, Not yawn)
 here Some examples of images of the dataset:
-<img src="https://github.com/talbaiz/Deep-Learning/blob/main/Images/images%20dataset.png" width="500" height="100" />
+
+<img src="https://github.com/talbaiz/Deep-Learning/blob/main/Images/images%20dataset.png" width="900" height="400" />
 
 ## Tools:
 
 # Technologies:
--Python
--Jupyter Notebook
+- Python
+- Jupyter Notebook
 
 # Libraries:
--Pandas
--Numpy
--Matplotlib
--Seaborn
--Sklearn
--Keras
--Tensorflow
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Sklearn
+- Keras
+- Tensorflow
 
 ---------------------------------------------------------
 The Final project - T5 Data Science Bootcamp
