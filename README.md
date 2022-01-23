@@ -13,18 +13,12 @@ here Some examples of images of the dataset:
 
 <img src="https://github.com/talbaiz/Deep-Learning/blob/main/Images/images%20dataset.png" width="800" height="500" />
 
-# Tools:
-## Technologies:
-- Python
-- Jupyter Notebook
-## Libraries:
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Sklearn
-- Keras
-- Tensorflow
+### Tools:
+- Pandas library will be used to create data frames.
+- Sklearn library will be to implement the baseline classification models.
+- Matplotlib, Seaborn visualize and discuss the results of the analysis.
+- keras and tensorflow for deep learing models and image preprocessing.
+
 
 ---------------------------------------------------------
 The Final project - T5 Data Science Bootcamp
